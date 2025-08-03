@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-// el bicho siu
+// El codigo implementa una calculadora científica en C++ que permite la realización de operaciones matemáticas básicas y avanzadas.
 //  Funciones matemáticas básicas
 double suma(double a, double b){
     return a + b;
